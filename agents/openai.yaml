@@ -1,0 +1,4 @@
+interface:
+  display_name: "前端 UI 资源导航"
+  short_description: "按页面、技术栈和预算查找灵感、组件、动效及视觉素材资源"
+  default_prompt: "使用 $frontend-ui-resources 为当前页面筛选合适的 UI 参考、组件和素材，给出链接、用途及接入建议。"
